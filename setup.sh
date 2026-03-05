@@ -3,7 +3,7 @@
 set -e
 
 DOTFILES_DIR="$HOME/.local/share/hypr-dotfiles"
-REPO_URL="https://github.com/Maciejonos/dotfiles.git"
+REPO_URL="https://github.com/Torveek/hypr-dotfiles.git"
 
 echo "=============="
 echo "Dotfiles Setup"
