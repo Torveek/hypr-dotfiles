@@ -1,0 +1,23 @@
+@define-color accent_color #7aa2f7;      /* Tokyo Night blue - main accent */
+@define-color accent_fg_color #c0caf5;    /* Tokyo Night text */
+@define-color accent_bg_color #1a1b26;    /* Tokyo Night background */
+
+@define-color window_bg_color #1a1b26;    /* Tokyo Night background */
+@define-color window_fg_color #c0caf5;    /* Tokyo Night text */
+
+@define-color headerbar_bg_color #1f2330;  /* Slightly lighter than background for contrast */
+@define-color headerbar_fg_color #c0caf5;  /* Tokyo Night text */
+
+@define-color popover_bg_color #1f2330;    /* Medium dark for popovers */
+@define-color popover_fg_color #c0caf5;    /* Tokyo Night text */
+
+@define-color view_bg_color #1a1b26;       /* Tokyo Night background */
+@define-color view_fg_color #c0caf5;       /* Tokyo Night text */
+
+@define-color card_bg_color #1f2330;       /* Slightly lighter for cards */
+@define-color card_fg_color #c0caf5;       /* Tokyo Night text */
+
+@define-color sidebar_bg_color @window_bg_color;
+@define-color sidebar_fg_color @window_fg_color;
+@define-color sidebar_border_color @window_bg_color;
+@define-color sidebar_backdrop_color @window_bg_color;

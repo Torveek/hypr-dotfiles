@@ -1,0 +1,4 @@
+source ~/.local/share/hypr-dotfiles/default/zshrc/envs
+source ~/.local/share/hypr-dotfiles/default/zshrc/init
+source ~/.local/share/hypr-dotfiles/default/zshrc/aliases
+source ~/.local/share/hypr-dotfiles/default/zshrc/functions
